@@ -1,5 +1,5 @@
 # INFO6205-523-GA-BuyEquipment
-Final Project for INFO 6205, Implantation of Genetic Algorithm for specific problem
+Final Project for INFO 6205, Implementation of Genetic Algorithm for specific problem
 ## Group member: 
 Yiru Cang 001814283   Jiaming Duan  001814402
 ## Project Topic
